@@ -1,0 +1,218 @@
+[CENTER]
+[IMG]https://i.imgur.com/foReqPr.png[/IMG]
+
+
+[CODE]
+* Your warranty is now void.
+* We are not responsible for anything that may happen to your phone by installing any custom ROMs and/or kernels.
+* You do it at your own risk and take the responsibility upon yourself and you are not to blame us or XDA and its respected developers.
+[/CODE]
+
+
+
+[SIZE=4]"[COLOR=rgb(251, 160, 38)]This is a user-friendly thread, all your suggestions are important to us and will be taken into consideration[/COLOR]."[/SIZE]
+
+
+[IMG]https://i.imgur.com/GmPdZBS.png[/IMG]
+
+
+
+[SIZE=3][SIZE=4]PixelPlusUI is a Pixel Experience based ROM with some more friendly user experience. What differentiates us from the rest, you ask? Well that's why you're here. LET'S FIND OUT. It has additional localised and personalized functionality while preserving the stock Android look by adhering to Material Design guidelines. Unlike OEMs' slow and untimely updates, we closely follow Google to bring the latest updates to our users, and even prolonging support to devices that have been declared obsolete by OEMs. Our ROMs' source code is open source, secure, stable and outstanding. Your experience using PixelPlusUI will be butter smooth with added convenience and features. So do not hesitate anymore, join us now and start enjoying the beauty of stock Android or even be one of our developers. Let's bring this project to greater heights! PixelPlusUI is a minimal and close to stock Android ROM which offers great performance and stability with many awesome features. The main aim of this rom is to give user a better experience without compromising quality of Android experience so that no one struggles in any kind of difficulties while using their device. PixelPlusUI brings a better UI/UX to Android with a seamless experience coupled with customisations and user security. But this doesn't mean our aim is to provide all the customisation available on the planet. We are focused on a cleaner, more Material design approach with Pixel Goodies. So sit back and enjoy PixelPlusUI on your device![/SIZE][/SIZE]
+
+
+
+
+[IMG]https://i.imgur.com/IVvuDEK.png[/IMG]
+
+
+
+[SIZE=5][B]- [URL='https://forum.xda-developers.com/m/kostyajrz.10385453/']Kostya Maslennikov[/URL] - Founder & Lead Developer
+- [URL='https://forum.xda-developers.com/m/sourav24071999.9437589/']Saurav[/URL]  - Developer & Support Team [/B]
+- And Also Our Hardworking Maintainers[/SIZE]
+
+
+
+[IMG]https://i.imgur.com/xTx1CqW.png[/IMG]
+
+
+[B]NOTE: As of now PixelPlusUI A11 [ R ] is still in beta so features mentioned below may or may not be present when you are flashing the build. 
+But when it will get stable u will get every features mentioned below. KEEP PATIENCE !![/B]
+
+
+[code]
+Statusbar :
+Statusbar clock customizations
+OOS Styled Network Traffic Activity Indicator
+Hiding Statusbar on lockscreen
+
+Quick settings :
+Useful new tiles like sync, Data Switch, AOD , etc
+Require unlocking to use some QS tiles
+WIFI/NFC, Mobile Data, Bluetooth Panel instead of full Settings
+
+Themes :
+PixelPlusUI Paper App
+Pixel Theme Picker
+More color accents, and fonts
+
+Hardware Buttons :
+Power Menu Customizations
+Disabled Annoying Emergency button in power menu
+
+Navigation :
+Navigation bar layout invertion
+
+Notifications :
+Heads-up
+Less boring heads-up
+
+Gestures :
+3-finger screenshot gesture
+Double tap to sleep on statusbar and lockscreen
+
+Security :
+FaceUnlock on OFFCIAL
+
+Screenshot :
+Toggle to disable of screenshot shutter sound
+
+Settings :
+Re Designed Dashboard UI/UX
+Added package name to installed app details
+Maintainer, device codename and SELinux status strings
+Link to google play in installed app info
+Protect sensitive info on About device
+Disable dashboards conditions and suggestions
+Per-app cellular data, vpn and wifi restrictions
+
+Extra :
+Incall vibration options
+Support for internal audio recording
+Gaming mode
+New Settings icons
+Pixel Charger Animation
+
+Miscellaneous :
+OTA Updates
+Moved battery icon to QS header
+Russian, Ukrainian, French, Polish, Turkish, Azerbaijani, Brazilian, and etc translations
+[/code]
+
+
+[B][COLOR=rgb(243, 121, 52)][SIZE=4]And Much More As Source keeps updating So Hard to keep all updated.[/SIZE][/COLOR][/B]
+
+
+
+[IMG]https://i.imgur.com/OUrMFhs.png[/IMG]
+
+
+
+
+[B][URL='https://sourceforge.net/projects/pixelplusui-project/files/eleven/violet/'][SIZE=7]SourceForge! [ TAP HERE ][/SIZE][/URL]
+
+
+NOTE: It is STRONGLY recommended to fully wipe your device before flashing and please avoid restoring system apps and system data with Titanium Backup (or with any backup/restore app) as this can cause stability issues that are very hard to debug, restoring regular apps is fine.
+If you believe you know what you're doing - then fine, go ahead, but please don't complain if you experience any strange behavior.[/B]
+
+
+
+[IMG]https://i.imgur.com/pmZkslu.png[/IMG]
+
+
+
+[B] [SIZE=5][COLOR=rgb(209, 72, 65)][B]CLEAN FLASH[/B][/COLOR][/SIZE] :[/B]
+- Download the latest build
+- Reboot to recovery.
+- Take a backup.
+- Wipe System, Data, Cache, Dalvik, Vendor [Only when you are decrypted else you have to format data in recovery]
+- Flash Latest Chinese Weekly Firmware
+- Flash the latest build
+- Flash Fcrypt [If you want to decrypt else u can skip]
+- Flash Magisk [OPTIONAL]
+- Reboot :p
+
+[B][COLOR=rgb(209, 72, 65)][B][SIZE=5]DIRTY FLASH[/SIZE][/B][/COLOR] :[/B]
+- Download the latest build
+- Reboot to recovery
+- Flash the latest build
+- Flash Magisk [OPTIONAL]
+- Wipe Cache
+- Reboot :p
+
+[B] [B][SIZE=5][COLOR=rgb(209, 72, 65)]What works?[/COLOR][/SIZE] [/B][/B]
+
+Wifi
+RIL
+Mobile data
+GPS
+Camera
+Flashlight
+Camcorder
+Bluetooth
+Fingerprint reader
+Lights
+Sound / vibration
+Almost everything
+
+[B][SIZE=5][COLOR=rgb(209, 72, 65)][B]What doesn't work?[/B][/COLOR][/SIZE][/B]
+
+Nothing yet
+You tell me! :p
+
+[SIZE=5][COLOR=rgb(209, 72, 65)][B]BUG REPORT !![/B][/COLOR][/SIZE]
+
+As soon as the problem occurs, take a logcat and please inform us via Telegram or XDA.
+[URL='http://telegra.ph/Logcats-are-important-03-01']for more READ THIS[/URL]
+
+
+
+[IMG]https://i.imgur.com/a6njYr9.png[/IMG]
+
+[SIZE=4][B]- Android Open-Source Project[/B][/SIZE]
+[B][SIZE=4]- Pixel Experience
+- LineageOS
+- Fluid OS
+- Havoc-OS
+- ProtonAOSP
+- Potato Open Source Project
+- Extended-UI
+- Evolution-X[/SIZE][/B]
+[SIZE=4][B]- Others, I forgot to mention[/B][/SIZE]
+
+[B][SIZE=4]PixelPlusUI XDA Logo and Banners[/SIZE][/B]
+- [URL='https://forum.xda-developers.com/m/virendra_carpenter.10819621/'][SIZE=4][B]Virendra [/B][/SIZE][/URL]
+
+
+
+[IMG]https://i.imgur.com/mzlfqhe.png[/IMG]
+
+[SIZE=4]- [B]Android OS version: [/B][COLOR=rgb(243, 121, 52)][B]11.0[/B][/COLOR]
+- [B]Security patch:[/B] [COLOR=rgb(243, 121, 52)][B]January 2021[/B][/COLOR]
+- [B]Build author/Device Maintainer[/B] : [COLOR=rgb(243, 121, 52)][URL='https://forum.xda-developers.com/m/sourav24071999.9437589/'][B]Saurav[/B][/URL][/COLOR]  
+- [B]DEVICE[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] REDMI NOTE 7 PRO[/B][/COLOR] [/B]
+- [B]DEVICE CODENAME[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] VIOLET[/B][/COLOR][B]  [/B] 
+
+[SIZE=5][B]Sources and Documentation[/B][/SIZE][/B][/SIZE]
+
+[SIZE=4]- [B][URL='https://github.com/PixelPlusUI-Elle'][COLOR=rgb(243, 121, 52)]ROM Source Code[/COLOR][/URL][/B] 
+- [B][URL='https://github.com/Panchajanya1999/msm-4.14'][COLOR=rgb(243, 121, 52)]Kernel Source[/COLOR][/URL][/B]
+- [B][URL='https://github.com/PixelPlusUI-Devices'][COLOR=rgb(243, 121, 52)]OFFICIAL DEVICES[/COLOR][/URL][/B][/SIZE]
+
+
+
+[IMG]https://i.imgur.com/aNanj7v.png[/IMG]
+
+
+
+[B][URL='https://t.me/project_noob'][SIZE=5]TELEGRAM CHANNEL[/SIZE][/URL]
+[URL='https://t.me/noobs_build'][SIZE=5]TELEGRAM GROUP[/SIZE][/URL][/B]
+
+[SIZE=6][COLOR=rgb(226, 80, 65)]------------------ DONATION LINKS ------------------ [/COLOR][/SIZE]
+
+[B][SIZE=4]AS WE KNOW THAT THE BUILD IS FREE OF COST FOR YOU GUYS BUT BUILDING ROMs NEED SERVER SO WE HAVE TO PAY FOR IT EVERY MONTH AND ITS A BIG AMOUNT SO AS A STUDENT ITS DIFFICULT TO MANAGE IT. IT WOULD BE HELPFULL AND REALLY APPRECIATED IF YOU SUPPORT US[/SIZE][/B]
+
+[SIZE=4][B]PAYTM UPI ID[/B][/SIZE][B][SIZE=4] : dwarmachine24@paytm
+GPAY UPI ID: dwarmachine24@oksbi[/SIZE][/B]
+[SIZE=4][B]PAYPAL: [URL]https://www.paypal.me/uglykid24[/URL][/B][/SIZE]
+
+[/CENTER]
