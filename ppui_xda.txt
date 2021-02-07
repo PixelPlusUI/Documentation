@@ -108,7 +108,7 @@ Russian, Ukrainian, French, Polish, Turkish, Azerbaijani, Brazilian, and etc tra
 
 
 
-[B][URL='https://sourceforge.net/projects/pixelplusui-project/files/eleven/violet/'][SIZE=7]SourceForge! [ TAP HERE ][/SIZE][/URL]
+[B][URL='https://sourceforge.net/projects/pixelplusui-project/files/eleven/'][SIZE=7]SourceForge! [ TAP HERE ][/SIZE][/URL]
 
 
 NOTE: It is STRONGLY recommended to fully wipe your device before flashing and please avoid restoring system apps and system data with Titanium Backup (or with any backup/restore app) as this can cause stability issues that are very hard to debug, restoring regular apps is fine.
@@ -175,7 +175,6 @@ As soon as the problem occurs, take a logcat and please inform us via Telegram o
 - Havoc-OS
 - ProtonAOSP
 - Potato Open Source Project
-- Extended-UI
 - Evolution-X[/SIZE][/B]
 [SIZE=4][B]- Others, I forgot to mention[/B][/SIZE]
 
@@ -187,7 +186,7 @@ As soon as the problem occurs, take a logcat and please inform us via Telegram o
 [IMG]https://i.imgur.com/mzlfqhe.png[/IMG]
 
 [SIZE=4]- [B]Android OS version: [/B][COLOR=rgb(243, 121, 52)][B]11.0[/B][/COLOR]
-- [B]Security patch:[/B] [COLOR=rgb(243, 121, 52)][B]January 2021[/B][/COLOR]
+- [B]Security patch:[/B] [COLOR=rgb(243, 121, 52)][B] February 2021[/B][/COLOR]
 - [B]Build author/Device Maintainer[/B] : [COLOR=rgb(243, 121, 52)][URL='https://forum.xda-developers.com/m/sourav24071999.9437589/'][B]Saurav[/B][/URL][/COLOR]  
 - [B]DEVICE[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] REDMI NOTE 7 PRO[/B][/COLOR] [/B]
 - [B]DEVICE CODENAME[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] VIOLET[/B][/COLOR][B]  [/B] 
@@ -204,8 +203,8 @@ As soon as the problem occurs, take a logcat and please inform us via Telegram o
 
 
 
-[B][URL='https://t.me/project_noob'][SIZE=5]TELEGRAM CHANNEL[/SIZE][/URL]
-[URL='https://t.me/noobs_build'][SIZE=5]TELEGRAM GROUP[/SIZE][/URL][/B]
+[B][URL='https://t.me/ppuich'][SIZE=5]TELEGRAM CHANNEL[/SIZE][/URL]
+[URL='https://t.me/ppuichat'][SIZE=5]TELEGRAM GROUP[/SIZE][/URL][/B]
 
 [SIZE=6][COLOR=rgb(226, 80, 65)]------------------ DONATION LINKS ------------------ [/COLOR][/SIZE]
 
