@@ -27,8 +27,8 @@
 
 
 [SIZE=5][B]- [URL='https://forum.xda-developers.com/m/kostyajrz.10385453/']Kostya Maslennikov[/URL] - Founder & Lead Developer
-- [URL='https://forum.xda-developers.com/m/sourav24071999.9437589/']Saurav[/URL]  - Developer & Support Team [/B]
-- [URL='https://forum.xda-developers.com/m/smokey18.10420255/']Smokey[/URL]  - Developer & Support Team [/B]
+- [URL='https://forum.xda-developers.com/m/sourav24071999.9437589/']Saurav[/URL]  - Developer & Support Team
+- [URL='https://forum.xda-developers.com/m/smokey18.10420255/']Smokey[/URL]  - Developer & Support Team
 - [URL='https://forum.xda-developers.com/m/beingmishra.7426783/']Rahul Mishra[/URL]  - UI/UX Developer & Support Team [/B]
 - And Also Our Hardworking Maintainers[/SIZE]
 
