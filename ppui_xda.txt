@@ -9,13 +9,13 @@
 [/CODE]
 
 
-[SIZE=4]"[COLOR=rgb(251, 160, 38)]This is a user-friendly thread, all your suggestions and proper bug reports are important to us but don't be disrespectfully to anyone here. Your suggestions and proper bug reports will be taken into consideration.[/COLOR]."[/SIZE]
+"[COLOR=rgb(251, 160, 38)]This is a user-friendly thread, all your suggestions and proper bug reports are important to us but don't be disrespectfully to anyone here. Your suggestions and proper bug reports will be taken into consideration.[/COLOR]."
 
 
 [IMG]https://i.imgur.com/GmPdZBS.png[/IMG]
 
 
-[SIZE=3][SIZE=4]PixelPlusUI is an another aftermarket aosp ROM Minimal UI & close to Stock Android ROM. What differentiates us from the rest, you ask? LET'S FIND OUT. It has additional localised and personalized functionality while preserving the stock Android look by adhering to Material Design guidelines. Unlike OEMs' slow and untimely updates, we closely follow Google to bring the latest updates to our users, and even prolonging support to devices that have been declared obsolete by OEMs. Our ROMs' source code is open source, secure, stable and outstanding. Your experience using PixelPlusUI will be butter smooth with added convenience and features. The main aim of this rom is to give user a better experience without compromising quality of Android experience so that no one struggles in any kind of difficulties while using their device. PixelPlusUI brings a better UI/UX to Android with a seamless experience coupled with customisations and user security. Inshort its perfectly balaced between Great Performance, Security, Stability, Minimal UI & Awesome features including pixel goodies But this doesn't mean our aim is to provide all the customisation available on the planet. So do not hesitate anymore, join us now and start enjoying the beauty of stock Android. Download and enjoy PixelPlusUI on your respective devices![/SIZE][/SIZE]
+PixelPlusUI is an another aftermarket aosp ROM Minimal UI & close to Stock Android ROM. What differentiates us from the rest, you ask? LET'S FIND OUT. It has additional localised and personalized functionality while preserving the stock Android look by adhering to Material Design guidelines. Unlike OEMs' slow and untimely updates, we closely follow Google to bring the latest updates to our users, and even prolonging support to devices that have been declared obsolete by OEMs. Our ROMs' source code is open source, secure, stable and outstanding. Your experience using PixelPlusUI will be butter smooth with added convenience and features. The main aim of this rom is to give user a better experience without compromising quality of Android experience so that no one struggles in any kind of difficulties while using their device. PixelPlusUI brings a better UI/UX to Android with a seamless experience coupled with customisations and user security. Inshort its perfectly balaced between Great Performance, Security, Stability, Minimal UI & Awesome features including pixel goodies But this doesn't mean our aim is to provide all the customisation available on the planet. So do not hesitate anymore, join us now and start enjoying the beauty of stock Android. Download and enjoy PixelPlusUI on your respective devices!
 
 
 [IMG]https://i.imgur.com/IVvuDEK.png[/IMG]
@@ -119,16 +119,6 @@ Russian, Ukrainian, French, Polish, Turkish, Azerbaijani, Brazilian, and etc tra
 [URL='https://twitter.com/pixelplusui'][SIZE=7]OUR OFFICIAL TWITTER HANDLE[/SIZE][/URL]
 [/B]
 
-
-[SIZE=6][COLOR=rgb(226, 80, 65)]---------- DONATION LINKS ---------- [/COLOR][/SIZE]
-
-[B][SIZE=4]As you know build is free but building ROM needs server. And Maintaining source and device stuff needs server and its pretty expensive for a student. It will be really helpful and appreciated if you donate or contribute us. Also if you have any queries related to donation you can freely message -> [URL='https://forum.xda-developers.com/m/sourav24071999.9437589/']Saurav (Co-Lead Dev)[/URL] [/SIZE][/B]
-
-[SIZE=4][B]PAYTM UPI ID[/B][/SIZE][B][SIZE=4] : dwarmachine24@paytm
-GPAY UPI ID: dwarmachine24@oksbi[/SIZE][/B]
-[SIZE=4][B]PAYPAL: [URL]https://www.paypal.me/uglykid24[/URL][/B][/SIZE]
-
-
 [IMG]https://i.imgur.com/pmZkslu.png[/IMG]
 
 
@@ -204,5 +194,15 @@ As soon as the problem occurs, take a logcat and please inform us via Telegram o
 [SIZE=4]- [B][URL='https://github.com/PixelPlusUI-Elle'][COLOR=rgb(243, 121, 52)]ROM Source Code[/COLOR][/URL][/B] 
 - [B][URL='https://github.com/Panchajanya1999/msm-4.14'][COLOR=rgb(243, 121, 52)]Kernel Source[/COLOR][/URL][/B]
 - [B][URL='https://github.com/PixelPlusUI-Devices'][COLOR=rgb(243, 121, 52)]OFFICIAL DEVICES[/COLOR][/URL][/B][/SIZE]
+
+[img]https://i.imgur.com/tRCvd6U.jpg[/img]
+
+[SIZE=6][COLOR=rgb(226, 80, 65)]---------- DONATION LINKS ---------- [/COLOR][/SIZE]
+
+[B][SIZE=4]As you know build is free but building ROM needs server. And Maintaining source and device stuff needs server and its pretty expensive for a student. It will be really helpful and appreciated if you donate or contribute us. Also if you have any queries related to donation you can freely message -> [URL='https://forum.xda-developers.com/m/sourav24071999.9437589/']Saurav (Co-Lead Dev)[/URL] [/SIZE][/B]
+
+[SIZE=4][B]PAYTM UPI ID[/B][/SIZE][B][SIZE=4] : dwarmachine24@paytm
+GPAY UPI ID: dwarmachine24@oksbi[/SIZE][/B]
+[SIZE=4][B]PAYPAL: [URL]https://www.paypal.me/uglykid24[/URL][/B][/SIZE]
 
 [/CENTER]
