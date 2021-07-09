@@ -46,6 +46,15 @@ Require unlocking QS tiles
 WIFI/NFC, Mobile Data, Bluetooth Panel instead of full Settings
 
 Themes :
+Redesign Settings Homepage Header
+Settings: Implement Miui Inspired Custom Headers 
+Bring back Gaming mode with dynamic mode
+Added ShapeShift Volume Panel Style 
+Added PixelPlusUI Specific Lockscreen Clock
+Redesign QS Expanded Clock
+Introduce Android 12 Style Switches
+Clocks: Add Android S Clocks
+Implement Dynamic Volte/VoWifi Icon back again
 PixelPlusUI Paper App
 Pixel Theme Picker
 More color accents, clocks, and fonts
@@ -183,7 +192,7 @@ As soon as the problem occurs, take a logcat and please inform us via Telegram o
 [IMG]https://i.imgur.com/mzlfqhe.png[/IMG]
 
 [SIZE=4]- [B]Android OS version: [/B][COLOR=rgb(243, 121, 52)][B]11.0[/B][/COLOR]
-- [B]Security patch:[/B] [COLOR=rgb(243, 121, 52)][B] June 2021[/B][/COLOR]
+- [B]Security patch:[/B] [COLOR=rgb(243, 121, 52)][B] July 2021[/B][/COLOR]
 - [B]Build author/Device Maintainer[/B] : <MaintainerNameHere>
 - [B]DEVICE[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] <DeviceNameHere> [/B][/COLOR] [/B]
 - [B]DEVICE CODENAME[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] <DeviceCodeNameHere> [/B][/COLOR][B]  [/B] 
