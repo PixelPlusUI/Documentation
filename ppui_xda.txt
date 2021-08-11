@@ -123,9 +123,8 @@ Russian, Ukrainian, French, Polish, Turkish, Azerbaijani, Brazilian, etc transla
 [IMG]https://i.imgur.com/OUrMFhs.png[/IMG]
 
 
-[B][URL='https://sourceforge.net/projects/pixelplusui-project/files/eleven/'][SIZE=7] SourceForge ! (Slow download)[/SIZE][/URL]
+[B][URL='https://sourceforge.net/projects/pixelplusui-project/files/eleven/'][SIZE=7] SourceForge ! [/SIZE][/URL]
 
-[URL='https://ppui.site/download'][SIZE=7]OFFICIAL Website ! (Fast Download)[/SIZE][/URL]
 
 Note[/B]: Our OFFICIAL website download link is high speed download server and you don't need to mirror it. And it is little bit expensive so support from your side will help us a lot !
 
@@ -135,6 +134,7 @@ Note[/B]: Our OFFICIAL website download link is high speed download server and y
 
 [SIZE=5][B]-- [/B] [/SIZE][B][URL='https://t.me/ppuich'][SIZE=5]DEVICE UPDATE TELEGRAM CHANNEL[/SIZE][/URL] [SIZE=5]--
 -- [/SIZE][/B][SIZE=5][B] [URL='https://t.me/ppuichat']SUPPORT/DISCUSSION TELEGRAM GROUP[/URL] --
+-- [URL='https://ppui.site'][SIZE=5]Visit our OFFICIAL Website[/SIZE][/URL]
 --  [URL='https://twitter.com/pixelplusui']OUR OFFICIAL TWITTER HANDLE[/URL] --[/B][/SIZE]
 
 
