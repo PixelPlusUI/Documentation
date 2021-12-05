@@ -1,4 +1,4 @@
-![PixelPlusUI](https://i.imgur.com/foReqPr.png "PixelPlusUI")
+![PixelPlusUI](https://i.imgur.com/YoZBnPt.jpg "PixelPlusUI")
 
 
 ## PixelPlusUI [![Download PixelPlusUI Builds](https://img.shields.io/sourceforge/dt/pixelplusui-project.svg)](https://sourceforge.net/projects/pixelplusui-project/files/eleven/)
@@ -9,36 +9,33 @@ PixelPlusUI is an another aftermarket aosp ROM Minimal UI & close to Stock Andro
 ## NOTE: 
 
 ```bash
-* Faceunlock and Pixelizer is available only for OFFICIAL Builds
-* App Lock (System) is also available but only for OFFICIAL Builds
 * This ROM comes only with Gapps Version
 * If you want some features you can make Pull Request After Successfully Testing
 * Contatct Us for Maintainership in Telegram for faster approch.
 ```
 
 # Changelogs
- * [**All Version Changelog Here**](https://github.com/PixelPlusUI-Elle/Documentation/blob/main/CHANGELOG.md)
+ * [**All Version Changelog Here**](https://ppui.site/changelog)
 
 
 # Maintainership 
 
 You must fulfill the following requirements before applying:
 
-- [Maintainers requirements](https://github.com/PixelPlusUI-Elle/Documentation/blob/main/maintainers_requirements.md)
+- [Maintainers requirements](https://github.com/PixelPlusUI-SnowCone/Documentation/blob/twelve/maintainers_requirements.md)
 
-- [Device requirements](https://github.com/PixelPlusUI-Elle/Documentation/blob/main/device_requirements.md)
+- [Device requirements](https://github.com/PixelPlusUI-SnowCone/Documentation/blob/twelve/device_requirements.md)
 
 # XDA 
 
-- [XDA Template is Here](https://github.com/PixelPlusUI-Elle/Documentation/blob/main/ppui_xda.txt)
+- [XDA Template is Here](https://github.com/PixelPlusUI-SnowCone/Documentation/blob/twelve/ppui_xda.txt)
 
 
-![Support and Donation](https://i.imgur.com/aNanj7v.png "Support and Donation")
+![Support and Donation](https://i.imgur.com/vfXdZIO.png "Support and Donation")
 
 ### Adding Support
- - For adding your device to the list of supported devices, please fill the maintainers form [**Form**](https://docs.google.com/forms/d/e/1FAIpQLScA5G_AUKiJlDWCM4Beaf_059dVZiClHv_rwZsklcXcGq0tzQ/viewform?vc=0&c=0&w=1) with your device tree and previous experience in building roms. Or you can contact us on Telegram Profiles below for faster response.
+ - For adding your device to the list of supported devices, please contact us on Telegram Profiles below for faster response.
  * [**Saurav**](https://t.me/ugly_kid_af)
- * [**Kostya-Maslennikov**](https://t.me/kostyajrz)
 
 ### Follow  us for more Updates
  * [**Telegram Group**](https://t.me/ppuichat)
