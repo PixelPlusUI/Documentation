@@ -23,7 +23,6 @@ PixelPlusUI is another aftermarket AOSP ROM Minimal UI & close to Stock Android 
 
 [SIZE=5][B]- [URL='https://forum.xda-developers.com/m/kostyajrz.10385453/']Kostya Maslennikov[/URL] - Founder & lead Developer
 - [URL='https://forum.xda-developers.com/m/sourav24071999.9437589/']Saurav[/URL]  - Co-Founder & Co-lead
-- [URL='https://github.com/victor10520']Victor[/URL]  - Core Developer
 - [URL='https://forum.xda-developers.com/m/allworkdone.11442851/']Abhishek[/URL]  - Support Team [/B]
 - And Also Our Hardworking Maintainers[/SIZE]
 
@@ -44,15 +43,26 @@ PixelPlusUI is another aftermarket AOSP ROM Minimal UI & close to Stock Android 
 - Themed Icons
 - Double tap to sleep on statusbar
 - Double tap to sleep on lockscreen
-- Powermenu: advanced reboot toggle - android 12 
-- Add button to AppErrorDialog to upload crash information to katbin 
+- Powermenu: advanced reboot toggle - android 12
+- Add button to AppErrorDialog to upload crash information to katbin
 - SystemUI: Add dual-tone light and dark themes for QS
 - Unlimited Upload in Google Photos
 - Most of the a12 Stuff
 - Allow user to add/remove QS with one click
 - Add option to scramble pin layout when unlocking
-- Add switch for linked ring and media notification volumes 
+- Add switch for linked ring and media notification volumes
 - Enabled charging ripple effect
+- Add hotspot setting to allow VPN upstreams 
+- Optional haptic feedback on back gesture 
+- add option to enable AOD on charging only 
+-  Add pocket lock mode
+- Gestures: Add option to cycle through ringer modes 
+-  Forward Port Volume Long Press Skip Tracks 
+- Forward port lockscreen quick unlock 
+- Forward port cm security settings 
+- Add option to scramble pin layout when unlocking 
+- Option to mute media with gesture 
+- SystemUI: Introduce DataSwitchTile  
 - Bluetooth battery level when available
 - More Features & Changes Coming SOON
 [/code]
@@ -136,7 +146,7 @@ As soon as the problem occurs, take a logcat and please inform us via Telegram o
 [img]https://i.imgur.com/FxdHQcu.jpg[/img]
 
 [SIZE=4]- [B]Android OS version: [/B][COLOR=rgb(243, 121, 52)][B]12.0[/B][/COLOR]
-- [B]Security patch:[/B] [COLOR=rgb(243, 121, 52)][B] December 2021[/B][/COLOR]
+- [B]Security patch:[/B] [COLOR=rgb(243, 121, 52)][B] November 2021[/B][/COLOR]
 - [B]Build author/Device Maintainer[/B] : [COLOR=rgb(243, 121, 52)][B]<MaintainerNameHere>[/B][/COLOR]
 - [B]DEVICE[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] <DeviceNameHere> [/B][/COLOR] [/B]
 - [B]DEVICE CODENAME[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] <DeviceCodeNameHere> [/B][/COLOR]   
