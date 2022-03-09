@@ -21,9 +21,12 @@ PixelPlusUI is another aftermarket AOSP ROM Minimal UI & close to Stock Android 
 [img]https://i.imgur.com/puBm5Su.jpg[/img]
 
 
-[SIZE=5][B]- [URL='https://forum.xda-developers.com/m/kostyajrz.10385453/']Kostya Maslennikov[/URL] - Founder & lead Developer
-- [URL='https://forum.xda-developers.com/m/sourav24071999.9437589/']Saurav[/URL]  - Co-Founder & Co-lead
-- [URL='https://forum.xda-developers.com/m/allworkdone.11442851/']Abhishek[/URL]  - Support Team [/B]
+[SIZE=5][B]
+- [URL='https://ppui.site/team']Kostya Maslennikov[/URL] - Founder & lead Developer
+- [URL='https://ppui.site/team']Saurav[/URL]  - Co-Founder & Co-lead
+- [URL='https://ppui.site/team']Ivan[/URL]  - Core Developer & Team
+- [URL='https://ppui.site/team']Hamza[/URL]  - Core Developer & Team
+- [URL='https://ppui.site/team']Abhishek[/URL]  - Support Team [/B]
 - And Also Our Hardworking Maintainers[/SIZE]
 
 
@@ -34,44 +37,13 @@ PixelPlusUI is another aftermarket AOSP ROM Minimal UI & close to Stock Android 
 
 [SIZE=5] [B][COLOR=rgb(235, 107, 86)]NOTE[/COLOR][/B]: [/SIZE][SIZE=4]As its initial A12 source and we will keep updating source with time, so its hard to keep threads updated everytime everywhere so kindly visit our website or telegram group for latest changes and screenshots. [/SIZE]
 
-[URL='https://ppui.site/changelog'][SIZE=6][B][COLOR=rgb(235, 107, 86)]Tap Here For CHANGELOG[/COLOR][/B][/SIZE][/URL]
-
-[code]
-- Pure Pixel Goodies
-- 3 finger Screenshot
-- Monet Theme
-- Themed Icons
-- Double tap to sleep on statusbar
-- Double tap to sleep on lockscreen
-- Powermenu: advanced reboot toggle - android 12
-- Add button to AppErrorDialog to upload crash information to katbin
-- SystemUI: Add dual-tone light and dark themes for QS
-- Unlimited Upload in Google Photos
-- Most of the a12 Stuff
-- Allow user to add/remove QS with one click
-- Add option to scramble pin layout when unlocking
-- Add switch for linked ring and media notification volumes
-- Enabled charging ripple effect
-- Add hotspot setting to allow VPN upstreams 
-- Optional haptic feedback on back gesture 
-- add option to enable AOD on charging only 
--  Add pocket lock mode
-- Gestures: Add option to cycle through ringer modes 
--  Forward Port Volume Long Press Skip Tracks 
-- Forward port lockscreen quick unlock 
-- Forward port cm security settings 
-- Add option to scramble pin layout when unlocking 
-- Option to mute media with gesture 
-- SystemUI: Introduce DataSwitchTile  
-- Bluetooth battery level when available
-- More Features & Changes Coming SOON
-[/code]
+[URL='https://ppui.site/changelog'][SIZE=6][B][COLOR=rgb(235, 107, 86)]Tap Here For CHANGELOG and Features [/COLOR][/B][/SIZE][/URL]
 
 
 [img]https://i.imgur.com/9nEsKDN.png[/img]
 
 
-[B][URL='https://sourceforge.net/projects/pixelplusui-project/files/twelve/'][SIZE=7]--------- SourceForge ! --------- [/SIZE][/URL]
+[B][URL='https://download.ppui.site/?dir=eleven'][SIZE=7]--------- Official Download Server ! --------- [/SIZE][/URL]
 
 
 [COLOR=rgb(235, 107, 86)][SIZE=5]Note[/SIZE][/COLOR][/B]:  [SIZE=5]You can check our Website for more details, guides , changelog etc related to build ![/SIZE]
@@ -146,7 +118,7 @@ As soon as the problem occurs, take a logcat and please inform us via Telegram o
 [img]https://i.imgur.com/FxdHQcu.jpg[/img]
 
 [SIZE=4]- [B]Android OS version: [/B][COLOR=rgb(243, 121, 52)][B]12.0[/B][/COLOR]
-- [B]Security patch:[/B] [COLOR=rgb(243, 121, 52)][B] November 2021[/B][/COLOR]
+- [B]Security patch:[/B] [COLOR=rgb(243, 121, 52)][B] February 2022[/B][/COLOR]
 - [B]Build author/Device Maintainer[/B] : [COLOR=rgb(243, 121, 52)][B]<MaintainerNameHere>[/B][/COLOR]
 - [B]DEVICE[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] <DeviceNameHere> [/B][/COLOR] [/B]
 - [B]DEVICE CODENAME[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] <DeviceCodeNameHere> [/B][/COLOR]   
@@ -155,7 +127,7 @@ As soon as the problem occurs, take a logcat and please inform us via Telegram o
 [SIZE=5][B]Sources and Documentation[/B][/SIZE][/B][/SIZE]
 
 [SIZE=4]- [B][URL='https://github.com/PixelPlusUI-SnowCone'][COLOR=rgb(243, 121, 52)]ROM Source Code[/COLOR][/URL][/B] 
-- [B][URL='https://github.com/Panchajanya1999/msm-4.14'][COLOR=rgb(243, 121, 52)]Kernel Source[/COLOR][/URL][/B]
+- [B][URL='https://github.com/PixelPlusUI-Devices'][COLOR=rgb(243, 121, 52)]Kernel Source[/COLOR][/URL][/B]
 - [B][URL='https://github.com/PixelPlusUI-Devices'][COLOR=rgb(243, 121, 52)]OFFICIAL DEVICES[/COLOR][/URL][/B][/SIZE]
 
 [img]https://i.imgur.com/eKH9pZw.jpg[/img]
