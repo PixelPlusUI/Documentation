@@ -43,7 +43,7 @@ PixelPlusUI is another aftermarket AOSP ROM Minimal UI & close to Stock Android 
 [img]https://i.imgur.com/9nEsKDN.png[/img]
 
 
-[B][URL='https://download.ppui.site/?dir=eleven'][SIZE=7]--------- Official Download Server ! --------- [/SIZE][/URL]
+[B][URL='https://download.ppui.site/'][SIZE=7]--------- Official Download Server ! --------- [/SIZE][/URL]
 
 
 [COLOR=rgb(235, 107, 86)][SIZE=5]Note[/SIZE][/COLOR][/B]:  [SIZE=5]You can check our Website for more details, guides , changelog etc related to build ![/SIZE]
