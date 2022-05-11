@@ -117,8 +117,8 @@ As soon as the problem occurs, take a logcat and please inform us via Telegram o
 
 [img]https://i.imgur.com/FxdHQcu.jpg[/img]
 
-[SIZE=4]- [B]Android OS version: [/B][COLOR=rgb(243, 121, 52)][B]12.0[/B][/COLOR]
-- [B]Security patch:[/B] [COLOR=rgb(243, 121, 52)][B] February 2022[/B][/COLOR]
+[SIZE=4]- [B]Android OS version: [/B][COLOR=rgb(243, 121, 52)][B]12.1[/B][/COLOR]
+- [B]Security patch:[/B] [COLOR=rgb(243, 121, 52)][B] May 2022[/B][/COLOR]
 - [B]Build author/Device Maintainer[/B] : [COLOR=rgb(243, 121, 52)][B]<MaintainerNameHere>[/B][/COLOR]
 - [B]DEVICE[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] <DeviceNameHere> [/B][/COLOR] [/B]
 - [B]DEVICE CODENAME[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] <DeviceCodeNameHere> [/B][/COLOR]   
