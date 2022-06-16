@@ -23,8 +23,7 @@ PixelPlusUI is another aftermarket AOSP ROM Minimal UI & close to Stock Android 
 
 [SIZE=5][B]
 - [URL='https://ppui.site/team']Kostya Maslennikov[/URL] - Founder 
-- [URL='https://ppui.site/team']Saurav[/URL]  - Co-Founder & Co-lead
-- [URL='https://ppui.site/team']Ivan[/URL]  - Core Developer & Team
+- [URL='https://github.com/ugly-kid-af']Saurav[/URL]  - Co-Founder & Co-lead
 - [URL='https://ppui.site/team']Hamza[/URL]  - Core Developer & Team
 - [URL='https://ppui.site/team']Abhishek[/URL]  - Support Team [/B]
 - And Also Our Hardworking Maintainers[/SIZE]
