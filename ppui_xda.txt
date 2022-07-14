@@ -123,7 +123,7 @@ As soon as the problem occurs, take a logcat and please inform us via Telegram o
 [img]https://i.imgur.com/FxdHQcu.jpg[/img]
 
 [SIZE=4]- [B]Android OS version: [/B][COLOR=rgb(243, 121, 52)][B]12.1[/B][/COLOR]
-- [B]Security patch:[/B] [COLOR=rgb(243, 121, 52)][B] June 2022[/B][/COLOR]
+- [B]Security patch:[/B] [COLOR=rgb(243, 121, 52)][B] July 2022[/B][/COLOR]
 - [B]Build author/Device Maintainer[/B] : [COLOR=rgb(243, 121, 52)][B]<MaintainerNameHere>[/B][/COLOR]
 - [B]DEVICE[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] <DeviceNameHere> [/B][/COLOR] [/B]
 - [B]DEVICE CODENAME[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] <DeviceCodeNameHere> [/B][/COLOR]   
@@ -146,6 +146,9 @@ As soon as the problem occurs, take a logcat and please inform us via Telegram o
 
 [B][SIZE=5][B][SIZE=4]* UPI ID: [/SIZE][/B][/SIZE][/B][SIZE=5][SIZE=4]dwarmachine24@oksbi [I](Indian Users)[/I][/SIZE][/SIZE]
 [B][SIZE=5][B][SIZE=4]* Paypal: [URL]https://www.paypal.me/uglykid24[/URL][/SIZE][/B][/SIZE]
+
+[B][SIZE=5]Join [COLOR=rgb(235, 107, 86)]Patreon [/COLOR]for early build access of officially supported devices[/SIZE][/B]
+
 [SIZE=5][B][SIZE=4]* Patreon: [URL]https://www.patreon.com/join/uglykid24[/URL][/SIZE][/B][/SIZE][/B][/SIZE]
 
 [/CENTER]
